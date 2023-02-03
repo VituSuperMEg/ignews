@@ -1,0 +1,32 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "sight"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Cillum ea qui elit velit amet sunt velit sunt enim cupidatat officia. Non dolor consequat incididunt qui ex id dolore ipsum sit sint id aliquip. Laboris magna adipisicing occaecat labore reprehenderit reprehenderit sit deserunt nostrud esse nisi do aliqua."
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Officia cillum sunt aute exercitation cillum ut voluptate ut sit ipsum irure. Occaecat ut aute duis magna est aliqua labore anim. Est voluptate qui eu pariatur nostrud cillum mollit laborum irure laborum excepteur ad pariatur."
+        }
+      }
+    ]
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}
